@@ -1,4 +1,5 @@
 # Define the variable board below.
-
-var array board
+var board
+board=[]
+board=[9]
 board=[" ", " ", " "," ", " ", " "," ", " ", " "]
